@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi! I'm BessyEscobar 💻 Freelance full-stack dev 🙋‍♀️
 
-<!--
-**BessyEscobar/BessyEscobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about programming and continuous learning. My career started in customer service in 2009, but my desire to make a professional shift led me to study **Full-Stack Development**.
 
-Here are some ideas to get you started:
+## My Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**2009 - 2021:** Customer Service 👩‍💼
+**2021 - 2022:** Full-Stack Developer at Adalab 👩‍💻  
+**2022:** Cybersecurity Certification with Coursera and Google 🕵️‍♀️
+
+## What I'm Passionate About? 🤖👾💻
+Technology and programming are my passions. I'm constantly seeking new challenges to grow professionally.
+
+## Proyectos
+
+- 
+- 
+
